@@ -1,0 +1,11 @@
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\bin\Debug\net8.0\Catalog.Domaing.deps.json
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\bin\Debug\net8.0\Catalog.Domaing.dll
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\bin\Debug\net8.0\Catalog.Domaing.pdb
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\Catalog.Domaing.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\Catalog.Domaing.AssemblyInfoInputs.cache
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\Catalog.Domaing.AssemblyInfo.cs
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\Catalog.Domaing.csproj.CoreCompileInputs.cache
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\Catalog.Domaing.dll
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\refint\Catalog.Domaing.dll
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\Catalog.Domaing.pdb
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Domaing\obj\Debug\net8.0\ref\Catalog.Domaing.dll

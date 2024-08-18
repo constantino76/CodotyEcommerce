@@ -1,0 +1,15 @@
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.csproj.AssemblyReference.cache
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.AssemblyInfoInputs.cache
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.AssemblyInfo.cs
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.csproj.CoreCompileInputs.cache
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.deps.json
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Domaing.dll
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\bin\Debug\net8.0\Catalog.Domaing.pdb
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog..07745594.Up2Date
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.dll
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\refint\Catalog.Persistence.Database.dll
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\Catalog.Persistence.Database.pdb
+C:\proyectosweb\microservicios\Kodoti.Comerce\src\Services\Catalog\Catalog.Persistence.Database\obj\Debug\net8.0\ref\Catalog.Persistence.Database.dll
